@@ -1,0 +1,23 @@
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+.columnas {
+    padding: 10px;
+    background-color: #2b2b2b;
+}
+
+.bi {
+    font-size: 1rem;
+    color: #ffffff;
+    margin-right: 6px;
+}
+
+body {
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+.suscripcion {
+    background-color: #2b2b2b;
+}
